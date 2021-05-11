@@ -22,4 +22,4 @@ When the monitor is operating, NITROS9 starts with'B'+ Ret.<br>
 Click here for details (in Japanese)<br>
 <a href="https://qiita.com/hi631/items/84025a23353ed9e8aff2">Make 6809 with FPGA and run OS9</a><br>
 <br>
-</p>
+Å@</p>
