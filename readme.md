@@ -4,7 +4,7 @@ The operating environment is the same as the previous &quot;[<a href="(https://g
 Only the circuit to write to FPGA and the registered contents of the SD card are different.<br>
 The monitor just changed the boot method. * The version has been upgraded a little.<br>
 <br>
-<img src="(https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/159764/31c2d274-ab73-8605-a745-b1c1f7fdfd98.jpeg" border="0" width="777" height="447"><br>
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/159764/31c2d274-ab73-8605-a745-b1c1f7fdfd98.jpeg" border="0" width="777" height="447"><br>
 <br>
 <font size="+1">#hard</font><br>
 The source itself is the same as MULTICOMP6809. However, delete the files that you think you don't need.<br>
